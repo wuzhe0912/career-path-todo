@@ -1,7 +1,7 @@
-import "./App.css";
+import './App.scss';
 
 function App() {
-  return <div className="App">Hello RWD Movies!</div>;
+  return <div>Hello RWD Movies!</div>;
 }
 
 export default App;
