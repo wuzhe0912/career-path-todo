@@ -1,5 +1,3 @@
-# Movies App
+# Clone Trello
 
-## API
-
-- [TMDB API](https://www.themoviedb.org/settings/api)
+> Client side practice with Angular, TypeScript, and Socket.io
